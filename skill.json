@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "genpark-attribute-normalizer-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "GenPark product characteristics and categories normalizer skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate genpark-attribute-normalizer-skill operations using the input configurations."
+}
